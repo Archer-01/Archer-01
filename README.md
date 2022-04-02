@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![hhamza's 42 stats](https://badge.mediaplus.ma/landscapes/hhamza)](https://github.com/oakoudad/badge42)
+[![hhamza's 42 stats](https://badge.mediaplus.ma/kettlebells/hhamza)](https://github.com/Archer-01)
 
 <a href="https://github.com/Archer-01?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-01&theme=dark"/>
