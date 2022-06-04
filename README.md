@@ -45,7 +45,7 @@ I'm interested in computer science and especially web development. I have experi
 
 ### Github Stats
 
-| [![moseddik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mou-SED&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Mou-SED?tab=repositories) | [![moseddik's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mou-SED&layout=compact&hide_border=true&theme=jolly)](https://github.com/Mou-SED?tab=repositories) |
+| [![hhamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archer-01&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Archer-01?tab=repositories) | [![moseddik's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-01&layout=compact&hide_border=true&theme=jolly)](https://github.com/Archer-01?tab=repositories) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <h3 align="center">Thanks for visiting! 😄</h3>
