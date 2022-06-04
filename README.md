@@ -1,4 +1,4 @@
-Hi 👋 My name is Hamza Haddani
+Hi 👋 My name is Hamza Haddani - aka Archer
 ==============================
 Future Web Developer
 --------------------
