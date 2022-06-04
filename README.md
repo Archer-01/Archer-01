@@ -1,33 +1,51 @@
-### Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px" height="30px">
+Hi 👋 My name is Hamza Haddani
+==============================
+Future Web Developer
+--------------------
 
-#### I'm HAMZA HADDANI
+I'm interested in computer science and especially web development. I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻 and impact society's lives through innovative tech solutions 💡.
 
-- 🏹​ Aiming to be a great web developer
-- 🎓 Graduated with a licence in mathematics and computer science
+... Always learning something new 🤓
+
+* 🌍  I'm based in Morrocco
+* ✉️  You can contact me at [hhamza@student.1337.ma](mailto:hhamza@student.1337.ma)
+* 🚀  I'm currently working on [Minishell](http://github.com/oaizab/minishell)
+* 🧠  I'm learning C Programming Language
+* 🏹​ Aiming to be a great web developer
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/982611163609198634" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Archer-01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hamza-haddani-95a2091b3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10542572/archer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/Archer-01/zsh-customizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Archer-01&repo=zsh-customizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Archer-01/libft" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Archer-01&repo=libft&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
+<br />
+
+---
+
+### 42 School stats
 
 <div align="center">
     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/hhamza" alt="hhamza's 42 stats" /></a>
 </div>
 
-### Thanks for visiting! 😄
+### Github Stats
 
-I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻 and impact society's lives through innovative tech solutions 💡.
+| [![moseddik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mou-SED&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Mou-SED?tab=repositories) | [![moseddik's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mou-SED&layout=compact&hide_border=true&theme=jolly)](https://github.com/Mou-SED?tab=repositories) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-... always learning something new 🤓
-
-<p align="center">
-    <a href="mailto:moseddik@student.1337.ma">
-        <img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:moseddik@student.1337.ma" />
-    </a>
-    <span> * </span>
-    <a href="https://www.linkedin.com/in/hamza-haddani-95a2091b3/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-haddani-95a2091b3/" />
-    </a>
-</p>
-
----
-
-| [![Archer-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archer-01&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Archer-01?tab=repositories) | [![Archer-01's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-01&layout=compact&hide_border=true&theme=jolly)](https://github.com/Archer-01?tab=repositories) |
-|:-:|:-:|
-
----
+<h3 align="center">Thanks for visiting! 😄</h3>
