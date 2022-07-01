@@ -9,7 +9,7 @@ I'm interested in computer science and especially web development. I have experi
 
 * 🌍  I'm based in Morrocco
 * ✉️  You can contact me at [hhamza@student.1337.ma](mailto:hhamza@student.1337.ma)
-* 🚀  I'm currently working on [Minishell](http://github.com/oaizab/minishell)
+* 🚀  I'm currently working on [Net_Practice](https://cdn.intra.42.fr/pdf/pdf/48874/en.subject.pdf)
 * 🧠  I'm learning C Programming Language
 * 🏹​ Aiming to be a great web developer
 
