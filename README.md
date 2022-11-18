@@ -37,12 +37,6 @@ I'm interested in computer science and especially web development. I have experi
 <br />
 <br />
 
-### 42 School stats
-
-<div align="center">
-    <a target="_blank"  href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/hhamza" alt="hhamza's 42 stats" /></a>
-</div>
-
 ### Github Stats
 
 | [![hhamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archer-01&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Archer-01?tab=repositories) | [![moseddik's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-01&layout=compact&hide_border=true&theme=jolly)](https://github.com/Archer-01?tab=repositories) |
