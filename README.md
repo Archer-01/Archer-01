@@ -9,7 +9,7 @@ I'm interested in computer science and especially web development. I have experi
 
 * 🌍  I'm based in Morrocco
 * ✉️  You can contact me at [hhamza@student.1337.ma](mailto:hhamza@student.1337.ma)
-* 🧠  I'm learning C Programming Language
+* 🧠  I'm learning C++ Programming Language
 * 🏹​ Aiming to be a great web developer
 
 ### Skills
