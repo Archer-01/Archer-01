@@ -29,14 +29,6 @@ I'm interested in computer science and especially web development. I have experi
 
 <p align="left"> <a target="_blank"  href="https://discord.com/users/982611163609198634" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a target="_blank"  href="https://www.github.com/Archer-01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a target="_blank"  href="https://www.linkedin.com/in/hamza-haddani-95a2091b3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a target="_blank"  href="https://www.stackoverflow.com/users/10542572/archer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Top Repositories
-
-<div width="100%" align="center"><a target="_blank"  href="https://github.com/Archer-01/zsh-customizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Archer-01&repo=zsh-customizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a target="_blank"  href="https://github.com/Archer-01/libft" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Archer-01&repo=libft&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
-<br />
-<br />
-<br />
-
 ### Github Stats
 
 | [![hhamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archer-01&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Archer-01?tab=repositories) | [![moseddik's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archer-01&layout=compact&hide_border=true&theme=jolly)](https://github.com/Archer-01?tab=repositories) |
