@@ -1,7 +1,5 @@
 Hi 👋 My name is Hamza Haddani
 ==============================
-Future Web Developer
---------------------
 
 I'm interested in computer science and especially web development. I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻 and impact society's lives through innovative tech solutions 💡.
 
@@ -9,8 +7,7 @@ I'm interested in computer science and especially web development. I have experi
 
 * 🌍  I'm based in Morrocco
 * ✉️  You can contact me at [hhamza@student.1337.ma](mailto:hhamza@student.1337.ma)
-* 🧠  I'm learning the Web
-* 🏹​ Aiming to be a great web developer
+* 🏹​ Aiming to be a great software engineer
 
 ### Skills
 
