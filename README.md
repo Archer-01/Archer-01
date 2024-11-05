@@ -6,7 +6,7 @@ I'm interested in computer science and especially web development. I have experi
 ... Always learning something new 🤓
 
 * 🌍  I'm based in Morrocco
-* ✉️  You can contact me at [hhamza@student.1337.ma](mailto:hhamza@student.1337.ma)
+* ✉️  You can contact me at [hamza.haddani@proton.me](mailto:hamza.haddani@proton.me)
 * 🏹​ Aiming to be a great software engineer
 
 ### Skills
